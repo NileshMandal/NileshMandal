@@ -1,8 +1,6 @@
 ## 👋 Hi, I’m Nileshkumar Mandal
 - :office:	I'm currently working in TCS.
 - 👀 I’m interested in Data Science.
-- :setting: I use daily 
-- 📫 How to reach me ...
 
 <!---
 NileshMandal/NileshMandal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
