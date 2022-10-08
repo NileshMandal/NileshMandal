@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Nileshkumar Mandal
+#  Hi 👋, I’m Nileshkumar Mandal
 - :office:	I'm currently working in TCS.
 - 👀 I’m interested in Data Science.
 
