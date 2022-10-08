@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NileshMandal
+- 👋 Hi, I’m Nileshkumar Mandal
 - :office:	I'm currently working in TCS.
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Machine learning and Deep learning.
